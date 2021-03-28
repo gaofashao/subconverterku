@@ -1,3 +1,3 @@
 [Profile]
 target=auto
-url=https://proxypoolss.tk/clash/proxies?c=CN,HK,JP,TW&speed=20
+url=https://sspool.herokuapp.com/clash/proxies?speed=30&nc=US,AT,ZZ,GB,RO,FR,FI,DE,AT,CA
